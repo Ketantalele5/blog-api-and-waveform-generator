@@ -1,4 +1,4 @@
-# Blog API and Waveform Generator
+# Blog API Using Python,Django,and REST
 
 ## Description
 A Django REST API for a blog application that allows users to create, read, update, and delete blog posts. It features user authentication with token-based access, role-based permissions to manage content, and provides a clean and structured API for seamless interaction. The application is built using Django REST Framework and is backed by a PostgreSQL database.
